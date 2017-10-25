@@ -1,1 +1,15 @@
-node_modules/
+# Отладочные журналы npm npm-debug.log*
+npm-debug.log*
+
+# Зависимости проекта node modules
+node_modules
+
+# Атрибуты папки OSX .DS Store 
+.DS_Store
+
+# Временные файлы *.tmp *
+*.tmp
+*~
+
+# Distribution
+dist
