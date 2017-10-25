@@ -1,0 +1,27 @@
+{
+  "name": "javagod",
+  "version": "1.0.0",
+  "description": "start jsE pattern",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maralbars/ES6-Chapter-2.git"
+  },
+  "keywords": [
+    "start",
+    "js"
+  ],
+  "author": "Abdreissov Maral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maralbars/ES6-Chapter-2/issues"
+  },
+  "homepage": "https://github.com/maralbars/ES6-Chapter-2#readme"
+}
