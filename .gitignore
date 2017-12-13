@@ -14,3 +14,7 @@ node_modules
 # Distribution
 dist
 public/dist
+
+# Texteditors supporting files
+*.bak
+*.sublime
